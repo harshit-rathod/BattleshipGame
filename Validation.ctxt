@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Validation
+comment1.params=Name1\ Name2
+comment1.target=boolean\ checkName(java.lang.String,\ java.lang.String)
+comment2.params=x1\ x2\ y1\ y2
+comment2.target=boolean\ checkPosition(int,\ int,\ int,\ int)
+comment3.params=xPos\ yPos\ gridSize
+comment3.target=boolean\ checkBound(int,\ int,\ int)
+numComments=4

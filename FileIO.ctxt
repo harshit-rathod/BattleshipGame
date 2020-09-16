@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileIO
+comment1.params=
+comment1.target=FileIO()
+comment2.params=
+comment2.target=java.lang.String\ readFile()
+numComments=3

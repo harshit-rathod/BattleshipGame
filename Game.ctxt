@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment10.params=ship\ x\ y
+comment10.target=boolean\ checkPosition(ShipList,\ int,\ int)
+comment2.params=playerShips\ computerList
+comment2.target=Game(ShipList,\ ShipList)
+comment3.params=
+comment3.target=void\ StartGame()
+comment4.params=x1\ y1\ computerShips
+comment4.target=boolean\ checkHit(int,\ int,\ ShipList)
+comment5.params=gridSize\ ship\ visibility
+comment5.target=void\ printGrid(int,\ ShipList,\ java.lang.Boolean)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=x\ y\ ship
+comment7.target=int\ changeShipStatus(int,\ int,\ ShipList)
+comment8.params=ship
+comment8.target=boolean\ checkForGameOver(ShipList)
+comment9.params=ship\ name
+comment9.target=boolean\ checkName(ShipList,\ java.lang.String)
+numComments=11

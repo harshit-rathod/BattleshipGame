@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CoordinateGenerator
+comment1.params=maximumValue\ minimumValue
+comment1.target=CoordinateGenerator(int,\ int)
+comment2.params=
+comment2.target=CoordinateGenerator()
+comment3.params=minimumValue\ maximumValue
+comment3.target=int\ generateRandomNumber(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getSaltString()
+numComments=5
